@@ -12,8 +12,8 @@
   </property>
   <property name="minimumSize">
    <size>
-    <width>342</width>
-    <height>420</height>
+    <width>358</width>
+    <height>450</height>
    </size>
   </property>
   <property name="maximumSize">
@@ -54,7 +54,7 @@
 background-color: rgb(0, 0, 0);</string>
           </property>
           <property name="frameShape">
-           <enum>QFrame::WinPanel</enum>
+           <enum>QFrame::StyledPanel</enum>
           </property>
          </widget>
         </item>
@@ -80,7 +80,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -102,7 +102,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -124,12 +124,11 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
        </property>
-       <zorder></zorder>
       </widget>
      </item>
      <item row="0" column="3">
@@ -147,7 +146,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -169,7 +168,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -191,7 +190,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -213,12 +212,11 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
        </property>
-       <zorder>frame_1_3</zorder>
       </widget>
      </item>
      <item row="1" column="3">
@@ -236,7 +234,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -258,7 +256,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -280,7 +278,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -302,7 +300,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -324,7 +322,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -346,7 +344,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -368,7 +366,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -390,7 +388,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
@@ -412,7 +410,7 @@ background-color: rgb(0, 0, 0);</string>
         </size>
        </property>
        <property name="frameShape">
-        <enum>QFrame::Box</enum>
+        <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
